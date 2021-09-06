@@ -1,1 +1,1 @@
-print('from colab)
+print('from colab')
